@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+<style>
+body{
+	font-family:"Times New Roman";
+font-size:20px;
+}
+h1{
+	color: #00F;
+	text-align: center;
+}
+li{
+	margin-left:30px;
+	font-size:16px;}
+	
+</style>
+</head>
+
+<body>
+
+<h1>CV</h1>
+<h2>fear</h2>
+<input type="checkbox"  /> que sepan que no estoy trabajando<br>
+<li>esconder curriculum en linkedin</li>
+<input type="checkbox"  /> que sepan que no he encontrado pega<br>
+<input type="checkbox"  /> pocos proyectos que demostrar<br>
+<input type="checkbox"  /> que hayan compañeros mejores<br>
+<input type="checkbox"  /> dificultad para describirme<br>
+<input type="checkbox"  /> dificultad para recordar las fechas<br>
+
+
+
+
+<h2>motivacion</h2>
+<input type="checkbox"  /> Tengo atributos diferenciadores<br>
+<li>geolocalizacion</li>
+<li>openlayers</li>
+<li>googlemasps v3</li>
+<li>googlemasps android v2</li>
+<li>Qlikview</li>
+<input type="checkbox"  /> Otros Atributos<br>
+<li>SQL</li>
+<li>Lenguajes : C,C++,JAVA,PHP,CSS,jquery,javascript,XML</li>
+<li>Servidores : CPANEL,WHM</li>
+<span>
+<li>MVC-STRUTS,CAKEPHP</li>
+</span>
+<li>MVVM : KnockoutJS</li>
+<li>Rest API : Slim framework</li>
+</body>
+</html>
+
+
+
+
+<script type="text/html" id="registers-templatex">
+<tr style="cursor:pointer"> 
+    <td><a data-bind="click: $parent.deleteRegister" style="float:right; cursor:pointer;"><i class="icon-remove"></i></a></td>
+     <td>
+	<div  data-bind="liveEditor: description,click: description.edit">
+		<span class="view"><span data-bind=" text: description() || 'no ingresada'"></span></span>
+		<input class="edit" style="width:97%"  
+		data-bind="value: description, enterKey: description.stopEditing, selectAndFocus: description.editing, event: { blur: description.stopEditing } " /><i class="icon-edit"></i>
+    </div> 
+	</td>
+    <td>
+	<div data-bind="liveEditor: category1,click: category1.edit">
+		<span class="view"><span data-bind=" text: category1() || 'no ingresada'"></span></span>
+		<input class="edit" style="width:97%"  
+		data-bind="value: category1, enterKey: category1.stopEditing, selectAndFocus: category1.editing, event: { blur: category1.stopEditing } " /><i class="icon-edit"></i>
+    </div>
+	</td>
+    <td>
+	<div data-bind="liveEditor: category2,click: category2.edit">
+		<span class="view"><span data-bind=" text: category2() || 'no ingresada' "></span></span>
+		<input class="edit" style="width:97%"  
+		data-bind="value: category2, enterKey: category2.stopEditing, selectAndFocus: category2.editing, event: { blur: category2.stopEditing } " /> <i class="icon-edit"></i>
+    </div>
+	</td>
+    <td>
+	<div data-bind="liveEditor: value,click: value.edit">
+		<span class="view"><span data-bind=" text: numberWithCommas(value()) || '0' "></span></span>
+		<input class="edit" style="width:97%"  
+		data-bind="value: value, enterKey: value.stopEditing, selectAndFocus: value.editing, event: { blur: value.stopEditing } " /><i class="icon-edit"></i>
+    </div>
+	</td>
+  </tr>
+ 
+</script>

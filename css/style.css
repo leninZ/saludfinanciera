@@ -1,0 +1,361 @@
+/* CSS Document */
+/* Large desktop */
+td{
+	position:relative;
+	}
+h1,h2,h3,h4,h5,tspan{
+	font-family: 'Cinzel Decorative', cursive;
+	text-align:center;
+	}
+#top,#topA,#topB,#contentA,#contentB,#contentA1,#contentA2{
+	float:left;
+	border:0px #999 dashed;}
+.pregunta{
+	border:0px #999 dashed;
+	margin:10px 30px 0px 30px;
+	padding: 10px 10px 20px 10px
+	}
+#all{
+	float:left;
+	width:94%;
+	margin:3%;
+	} 
+#contentA{
+	padding-top: 31px;
+	}	
+#contentA1{  
+   width: 56%;
+   padding: 2%;
+	} 
+#contentA2	{ 
+   width:40%;	
+}
+#cubeA,#cubeB,#cubeC,#cubeD{
+	
+	}
+#cubeA{ 
+   background-color:#0C0;
+   float:left;
+   width: 46%;
+   padding: 2%;
+   margin-bottom:1%;
+
+ }
+ #cubeB{ 
+	background-color:red;
+	float:left;
+	width: 45%;
+	padding: 2%;
+	margin-left: 1%;
+	margin-bottom:1%;
+ }
+ #cubeC{ 
+	background-color:#0CF;
+	float:left;
+	width: 46%;
+	padding: 2%;
+ }
+ #cubeD{ 
+   background-color:#639;
+   float:left;
+    width: 45%;
+padding: 2%;
+margin-left: 1%;
+ }
+
+@media (min-width: 979px) {
+	
+#topA,#contentA{
+	width:65%;
+	}
+#topB,#contentB{
+	width:35%;
+}
+.visible-phone {
+  display: none !important;
+}
+
+} 
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) {
+#topA { 
+	width:65%;
+	}
+#topB{
+	width:35%; 
+}
+#contentA, { 
+	width:100%;
+	}
+#contentB{
+	width:100%;  
+} 
+.visible-phone {
+  display: none !important;
+}
+}
+ 
+/* Landscape phone to portrait tablet */
+@media (min-width: 482px) and (max-width: 767px) {
+#topA { 
+	width:65%;
+	}
+#topB{
+	width:35%; 
+}
+#contentA, { 
+	width:100%;
+	}
+#contentB{
+	width:100%;  
+}
+.visible-phone {
+  display: none !important;
+}
+}
+ 
+/* Landscape phones and down */
+@media (max-width: 481px) {
+#topA,#contentA,#contentA1{
+	width:98%;
+	}
+#topB,#contentB,#contentA2{
+	width:98%;  
+}
+
+.hidden-phone {
+    display: none !important;
+  }
+}
+
+/*inline editing*/
+.edit {
+    display: none;
+	   
+}
+
+
+.editing .edit {
+    display: block;    
+}
+
+.editing .view {
+    display: none;
+	cursor:pointer;
+	padding-right: 15px; 
+}​
+/*end inline editing*/
+
+.span1,.span2,.span3,.span4,.span5,.span6,.span7,.span8,.span9,.span10,.span11,.span12 {
+	border: 1px dashed #666666; 
+}
+.label1{
+	float: left;
+width: 100px;
+text-align: right;
+}
+
+.white{
+	background-color:white;}	
+.thumb {
+    height: 60px;
+	width: 60px;
+    border: 1px solid #000;
+    margin: 10px 5px 10px 0;
+}
+.thumbLittle {
+    height: 30px;
+	width:30px;
+    border: 1px solid #000;
+    margin: 10px 5px 10px 0;
+}
+.thumb2 {
+    height: 150px;
+	width: 150px
+    border: 1px solid #000;
+    margin: 10px 5px 0 0;
+}
+.thumbPost {
+    height: 50px;
+	width: 50px; 
+    border: 1px solid #000;
+    margin: 17px 15px 15px 10px;
+    float: right;
+}
+.littleBlue {
+color: #3987CC;
+font-size: 11px;
+padding-top: 5px;
+}
+.littleBlueBIG {
+color: #3987CC;
+font-size: 15px; 
+padding-top: 5px;
+}
+.littleBlueTittle {
+color: #3987CC;
+font-size: 18px; 
+padding-top: 15px;
+}
+.postText{
+	padding:10px 10px 10px 10px; 
+	text-align:left;
+    text-align: justify;text-justify: newspaper;
+	  }
+.span4,.span8,.span6{
+	/*padding: 20px 20px 20px 20px;*/
+	/*margin: 0px 0px 20px 0px;*/
+	}
+	
+	
+/*---------- E F E C T O S ------*/	
+.center{
+	display: block;
+	   margin-left: auto;  
+	    margin-right: auto;
+	}	
+.black{
+	background-color:#000;
+
+	}
+.gray{
+	background-color:rgb(247, 247, 247);
+	}	
+
+.shadows{
+	-moz-box-shadow: 0px 0px 15px #ccc;
+	-webkit-box-shadow: 0px 0px 15px #CCC;
+	box-shadow: 0px 0px 15px #CCC;
+	
+	}
+.Tshadows{
+	text-shadow: 1px 5px 4px #383838;
+filter: dropshadow(color=#383838, offx=1, offy=1);
+}
+.round4 {	
+     border-radius: 5px 5px 5px 5px;
+	-moz-border-radius: 5px 5px 5px 5px;
+	-webkit-border-radius: 5px 5px 5px 5px;}
+.roundTopRight {	
+     border-radius: 0px 5px 0px 0px;
+	-moz-border-radius: 0px 5px 0px 0px;
+	-webkit-border-radius: 0px 5px 0px 0px;}	
+.roundTop {	
+border-radius: 5px 5px 0px 0px;
+	-moz-border-radius: 5px 5px 0px 0px;
+	-webkit-border-radius: 5px 5px 0px 0px;}
+.roundBottom {	
+    border-radius: 0px 0px 5px 5px;
+	-moz-border-radius: 0px 0px 5px 5px;
+	-webkit-border-radius: 0px 0px 5px 5px;} 
+	
+/*--------ICON----*/
+.icon-edit {
+background-position: -96px -72px;
+float: right;
+margin-left: 5px;
+margin-right: 2px;
+position: absolute;
+top: 0px;
+right: 0px;
+}
+.icon-ok-sign {
+  background-position: -72px -96px;
+  float: right;
+margin-left: 5px;
+margin-right: 2px;
+position: absolute;
+top: 9px;
+right: 0px; 
+}
+}
+.icon-search {
+  background-position: -48px 0;
+}
+
+.icon-remove {
+background-position: -312px 0;
+}
+.icon-list-alt {
+  background-position: -264px -24px;
+}
+.icon-arrow-left {
+  background-position: -240px -96px;
+}
+
+.icon-arrow-right {
+  background-position: -264px -96px;
+}
+[class^="icon-"], [class*=" icon-"] {
+display: inline-block;
+width: 14px;
+height: 14px;
+margin-top: 1px;
+line-height: 14px;
+vertical-align: text-top;
+background-image: url("/img/glyphicons-halflings.png");
+background-repeat: no-repeat;
+}
+/*------BTN--------*/
+
+.btn {
+display: inline-block;
+margin-bottom: 0;
+font-size: 14px;
+line-height: 20px;
+color: #333;
+text-align: center;
+text-shadow: 0 1px 1px rgba(255,255,255,0.75);
+vertical-align: middle;
+cursor: pointer;
+background-color: #f5f5f5;
+background-image: -moz-linear-gradient(top,#fff,#e6e6e6);
+background-image: -webkit-gradient(linear,0 0,0 100%,from(#fff),to(#e6e6e6));
+background-image: -webkit-linear-gradient(top,#fff,#e6e6e6);
+background-image: -o-linear-gradient(top,#fff,#e6e6e6);
+background-image: linear-gradient(to bottom,#fff,#e6e6e6);
+background-repeat: repeat-x;
+border: 1px solid #bbb;
+border-color: #e6e6e6 #e6e6e6 #bfbfbf;
+border-color: rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);
+border-bottom-color: #a2a2a2;
+-webkit-border-radius: 4px;
+-moz-border-radius: 4px;
+border-radius: 4px;
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff',endColorstr='#ffe6e6e6',GradientType=0);
+filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+-webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2),0 1px 2px rgba(0,0,0,0.05);
+-moz-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2),0 1px 2px rgba(0,0,0,0.05);
+box-shadow: inset 0 1px 0 rgba(255,255,255,0.2),0 1px 2px rgba(0,0,0,0.05);
+}
+
+.btn:hover {
+  color: #333333;
+  text-decoration: none;
+  background-color: #e6e6e6;
+  *background-color: #d9d9d9;
+  /* Buttons in IE7 don't get borders, so darken on hover */
+
+  background-position: 0 -15px;
+  -webkit-transition: background-position 0.1s linear;
+     -moz-transition: background-position 0.1s linear;
+       -o-transition: background-position 0.1s linear;
+          transition: background-position 0.1s linear;
+}
+
+.btn:focus {
+  outline: thin dotted #333;
+  outline: 5px auto -webkit-focus-ring-color;
+  outline-offset: -2px;
+}
+
+.btn.active,
+.btn:active {
+  background-color: #e6e6e6;
+  background-color: #d9d9d9 \9;
+  background-image: none;
+  outline: 0;
+  -webkit-box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
+     -moz-box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
+          box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
+}

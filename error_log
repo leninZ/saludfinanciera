@@ -1,0 +1,65 @@
+[02-Nov-2012 05:38:30 UTC] PHP Fatal error:  Call to undefined function serveFile() in /home/edicurso/public_html/test/index.php on line 38
+[02-Nov-2012 05:50:48 UTC] PHP Fatal error:  Call to undefined function getConnection() in /home/edicurso/public_html/test/index.php on line 20
+[02-Nov-2012 07:17:20 UTC] PHP Fatal error:  Class 'Slim' not found in /home/edicurso/public_html/test/index.php on line 81
+[02-Nov-2012 07:17:25 UTC] PHP Fatal error:  Class 'Slim' not found in /home/edicurso/public_html/test/index.php on line 81
+[02-Nov-2012 07:18:15 UTC] PHP Fatal error:  Class 'Slim' not found in /home/edicurso/public_html/test/index.php on line 81
+[02-Nov-2012 07:30:00 UTC] PHP Fatal error:  Class 'Slim' not found in /home/edicurso/public_html/test/index.php on line 81
+[02-Nov-2012 07:30:37 UTC] PHP Fatal error:  Class 'Slim' not found in /home/edicurso/public_html/test/index.php on line 81
+[02-Nov-2012 07:32:14 UTC] PHP Fatal error:  Class 'Slim' not found in /home/edicurso/public_html/test/index.php on line 81
+[02-Nov-2012 07:34:58 UTC] PHP Fatal error:  Class 'Slim' not found in /home/edicurso/public_html/test/index.php on line 81
+[02-Nov-2012 07:39:32 UTC] PHP Fatal error:  Class 'Slim' not found in /home/edicurso/public_html/test/index.php on line 5
+[02-Nov-2012 07:39:32 UTC] PHP Fatal error:  Class 'Slim' not found in /home/edicurso/public_html/test/index.php on line 5
+[02-Nov-2012 07:39:34 UTC] PHP Fatal error:  Class 'Slim' not found in /home/edicurso/public_html/test/index.php on line 5
+[02-Nov-2012 07:39:34 UTC] PHP Fatal error:  Class 'Slim' not found in /home/edicurso/public_html/test/index.php on line 5
+[02-Nov-2012 07:41:31 UTC] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/edicurso/public_html/test/index.php on line 90
+[02-Nov-2012 08:26:32 UTC] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/edicurso/public_html/test/index.php on line 95
+[02-Nov-2012 08:27:47 UTC] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/edicurso/public_html/test/index.php on line 95
+[02-Nov-2012 08:29:17 UTC] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/edicurso/public_html/test/index.php on line 95
+[02-Nov-2012 08:30:14 UTC] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/edicurso/public_html/test/index.php on line 95
+[02-Nov-2012 08:48:56 UTC] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/edicurso/public_html/test/index.php on line 91
+[02-Nov-2012 09:19:08 UTC] PHP Fatal error:  Can't use method return value in write context in /home/edicurso/public_html/test/index.php on line 97
+[02-Nov-2012 09:19:08 UTC] PHP Fatal error:  Can't use method return value in write context in /home/edicurso/public_html/test/index.php on line 97
+[02-Nov-2012 09:19:10 UTC] PHP Fatal error:  Can't use method return value in write context in /home/edicurso/public_html/test/index.php on line 97
+[02-Nov-2012 09:19:10 UTC] PHP Fatal error:  Can't use method return value in write context in /home/edicurso/public_html/test/index.php on line 97
+[02-Nov-2012 09:19:39 UTC] PHP Fatal error:  Can't use method return value in write context in /home/edicurso/public_html/test/index.php on line 97
+[02-Nov-2012 09:19:39 UTC] PHP Fatal error:  Can't use method return value in write context in /home/edicurso/public_html/test/index.php on line 97
+[02-Nov-2012 09:19:42 UTC] PHP Fatal error:  Can't use method return value in write context in /home/edicurso/public_html/test/index.php on line 97
+[02-Nov-2012 09:19:43 UTC] PHP Fatal error:  Can't use method return value in write context in /home/edicurso/public_html/test/index.php on line 97
+[02-Nov-2012 18:27:41 UTC] PHP Fatal error:  Class 'Slim' not found in /home/edicurso/public_html/test/index.php on line 97
+[02-Nov-2012 18:41:25 UTC] PHP Fatal error:  Function name must be a string in /home/edicurso/public_html/test/index.php on line 100
+[02-Nov-2012 19:18:14 UTC] PHP Fatal error:  Call to undefined method stdClass::post() in /home/edicurso/public_html/test/index.php on line 97
+[02-Nov-2012 21:10:51 UTC] PHP Fatal error:  Class 'Slim' not found in /home/edicurso/public_html/test/index.php on line 31
+[02-Nov-2012 21:10:57 UTC] PHP Fatal error:  Class 'Slim' not found in /home/edicurso/public_html/test/index.php on line 31
+[02-Nov-2012 21:10:59 UTC] PHP Fatal error:  Class 'Slim' not found in /home/edicurso/public_html/test/index.php on line 31
+[03-Nov-2012 01:04:38 UTC] PHP Fatal error:  Call to a member function render() on a non-object in /home/edicurso/public_html/test/index.php on line 34
+[03-Nov-2012 01:05:27 UTC] PHP Parse error:  syntax error, unexpected T_USE, expecting '{' in /home/edicurso/public_html/test/index.php on line 32
+[03-Nov-2012 01:05:28 UTC] PHP Parse error:  syntax error, unexpected T_USE, expecting '{' in /home/edicurso/public_html/test/index.php on line 32
+[03-Nov-2012 01:05:29 UTC] PHP Parse error:  syntax error, unexpected T_USE, expecting '{' in /home/edicurso/public_html/test/index.php on line 32
+[03-Nov-2012 01:05:29 UTC] PHP Parse error:  syntax error, unexpected T_USE, expecting '{' in /home/edicurso/public_html/test/index.php on line 32
+[03-Nov-2012 02:50:50 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/edicurso/public_html/test/index.php on line 67
+[03-Nov-2012 03:09:11 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/edicurso/public_html/test/index.php on line 69
+[04-Nov-2012 20:33:54 UTC] PHP Fatal error:  Can't use method return value in write context in /home/edicurso/public_html/prueba/index.php on line 113
+[04-Nov-2012 20:33:56 UTC] PHP Fatal error:  Can't use method return value in write context in /home/edicurso/public_html/prueba/index.php on line 113
+[04-Nov-2012 20:33:59 UTC] PHP Fatal error:  Can't use method return value in write context in /home/edicurso/public_html/prueba/index.php on line 113
+[04-Nov-2012 20:34:01 UTC] PHP Fatal error:  Can't use method return value in write context in /home/edicurso/public_html/prueba/index.php on line 113
+[04-Nov-2012 20:34:04 UTC] PHP Fatal error:  Can't use method return value in write context in /home/edicurso/public_html/prueba/index.php on line 113
+[04-Nov-2012 20:34:05 UTC] PHP Fatal error:  Can't use method return value in write context in /home/edicurso/public_html/prueba/index.php on line 113
+[04-Nov-2012 20:35:05 UTC] PHP Fatal error:  Can't use method return value in write context in /home/edicurso/public_html/prueba/index.php on line 113
+[04-Nov-2012 20:35:06 UTC] PHP Fatal error:  Can't use method return value in write context in /home/edicurso/public_html/prueba/index.php on line 113
+[04-Nov-2012 20:35:25 UTC] PHP Fatal error:  Can't use method return value in write context in /home/edicurso/public_html/prueba/index.php on line 113
+[04-Nov-2012 20:35:26 UTC] PHP Fatal error:  Can't use method return value in write context in /home/edicurso/public_html/prueba/index.php on line 113
+[04-Nov-2012 20:35:29 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or '$' in /home/edicurso/public_html/prueba/index.php on line 76
+[04-Nov-2012 20:57:25 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_CATCH in /home/edicurso/public_html/prueba/index.php on line 261
+[07-Nov-2012 14:19:42 UTC] PHP Parse error:  syntax error, unexpected $end, expecting ',' or ';' in /home/edicurso/public_html/prueba/index.php on line 78
+[09-Nov-2012 02:26:07 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/edicurso/public_html/prueba/index.php on line 48
+[09-Nov-2012 02:26:56 UTC] PHP Parse error:  syntax error, unexpected $end in /home/edicurso/public_html/prueba/index.php on line 162
+[09-Nov-2012 02:38:10 UTC] PHP Fatal error:  Object of class stdClass could not be converted to string in /home/edicurso/public_html/prueba/index.php on line 52
+[09-Nov-2012 02:40:47 UTC] PHP Parse error:  syntax error, unexpected $end in /home/edicurso/public_html/prueba/index.php on line 208
+[09-Nov-2012 02:40:49 UTC] PHP Parse error:  syntax error, unexpected $end in /home/edicurso/public_html/prueba/index.php on line 208
+[09-Nov-2012 02:40:50 UTC] PHP Parse error:  syntax error, unexpected $end in /home/edicurso/public_html/prueba/index.php on line 208
+[09-Nov-2012 11:54:59 UTC] PHP Fatal error:  Cannot redeclare myPosts() (previously declared in /home/edicurso/public_html/prueba/index.php:35) in /home/edicurso/public_html/prueba/index.php on line 192
+[09-Nov-2012 11:54:59 UTC] PHP Fatal error:  Cannot redeclare myPosts() (previously declared in /home/edicurso/public_html/prueba/index.php:35) in /home/edicurso/public_html/prueba/index.php on line 192
+[09-Nov-2012 23:28:15 UTC] PHP Parse error:  syntax error, unexpected $end in /home/edicurso/public_html/prueba/index.php on line 74
+[09-Nov-2012 23:28:15 UTC] PHP Parse error:  syntax error, unexpected $end in /home/edicurso/public_html/prueba/index.php on line 74
+[09-Nov-2012 23:28:15 UTC] PHP Parse error:  syntax error, unexpected $end in /home/edicurso/public_html/prueba/index.php on line 74
+[02-Apr-2013 20:19:29 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in /home/edicurso/public_html/prueba/index.php on line 68
